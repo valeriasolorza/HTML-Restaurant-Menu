@@ -28,6 +28,8 @@ main {
 }
 
 nav {
+    width: 100%; 
+    
     background-color: beige;
     padding: 10px;
 }
@@ -83,4 +85,14 @@ td,
 th {
     border: 1px solid black;
     padding: 5px;
+}
+
+.location-list {
+    list-style: none;
+    list-style-type: none;
+    text-align: center;
+}
+
+#contact-icon{
+    width: 15px;
 }
